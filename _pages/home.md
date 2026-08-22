@@ -19,10 +19,7 @@ permalink: /
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Global Health</a>
 </div>
 
-OMER Lab applies principles of mechanical engineering to problems in orthopaedics and biomechanics. Our research combines computational modeling, engineering design, and advanced manufacturing to investigate musculoskeletal mechanics and develop innovative solutions for orthopaedic applications.
-
-
-### About OMER Lab
+### About
 
 OMER (Orthopaedic & Mechanical Engineering Research) Lab is an independent research collaborative network founded by Omer Subasi, PhD. The lab focuses on applying mechanical engineering principles and computational methods to clinically relevant challenges in orthopaedics and musculoskeletal biomechanics.
 
