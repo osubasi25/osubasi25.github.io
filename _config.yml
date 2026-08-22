@@ -21,7 +21,7 @@ links:
 # ============================================================
 # STEP 3: Site Settings
 # ============================================================
-accent_color: "#1a7a6d"      # theme color for links and buttons
+accent_color: "#495057"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
 description: "OMER (Orthopaedic & Mechanical Engineering Research) Lab"
 baseurl: ""
@@ -35,14 +35,12 @@ analytics:
 # STEP 4: Choose Your Pages (comment out any you don't need)
 # ============================================================
 nav_pages:
-  - name: about
   - name: publications
-  - name: talks
   - name: research
-  - name: software
   - name: team
   - name: teaching
-  - name: blogs
+  - name: collaborators
+
 
 # ============================================================
 # Advanced Settings (you probably don't need to change these)
