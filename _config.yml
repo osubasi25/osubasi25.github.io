@@ -5,18 +5,17 @@ name: "OMER Lab"
 title: "Orthopaedic & Mechanical Engineering Research"
 institution: "Founded by Omer Subasi, PhD"
 email: ""
-photo: headshot.jpg
+photo: profil.png
 
 # ============================================================
 # STEP 2: Your Links (optional -- delete any you don't use)
 # ============================================================
 links:
-  google_scholar: ""
+  google_scholar: "https://scholar.google.com/citations?user=Pl_8wiQAAAAJ&hl=en"
   github: "https://github.com/osubasi25"
   researchgate: ""
-  orcid: ""
-  twitter: ""
-  linkedin: ""
+  orcid: "https://orcid.org/0000-0002-8383-6000"
+  linkedin: "https://www.linkedin.com/in/omer-subasi-915417167/"
   cv: ""
 
 # ============================================================
@@ -24,7 +23,7 @@ links:
 # ============================================================
 accent_color: "#1a7a6d"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
-description: "OMER Lab — Orthopaedic & Mechanical Engineering Research"
+description: "OMER (Orthopaedic & Mechanical Engineering Research) Lab"
 baseurl: ""
 url: ""
 
