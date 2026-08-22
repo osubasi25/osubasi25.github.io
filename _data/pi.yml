@@ -4,8 +4,9 @@
 
 # EXAMPLE -- replace or delete
 - education:
-    - "(1942) Ph.D. Physics, Princeton University"
-    - "(1939) B.S. Physics, Massachusetts Institute of Technology"
+  - "Ph.D. Biomedical Engineering, Koç University"
+  - "B.S. Mechanical Engineering, California Institute of Technology"
+
   educationshort:
-    - "(1942) Ph.D. Physics, Princeton"
-    - "(1939) B.S. Physics, MIT"
+  - "Ph.D. Biomedical Engineering, Koç University, Istanbul, Turkey"
+  - "B.S. Mechanical Engineering, Caltech, CA, USA"
