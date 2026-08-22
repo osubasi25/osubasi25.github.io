@@ -7,6 +7,9 @@ permalink: /
 
 <h2 class="home-hero">{{ site.name }}</h2>
 <p class="home-hero-sub">{{ site.title }}</p>
+<div style="margin: 1.5rem 0 2rem 0; text-align: left;" markdown="0">
+  <img src="{{ '/images/omerlab-logo-wide.png' | relative_url }}" alt="OMER Lab logo" style="max-width: 100%; height: auto; border-radius: 8px;">
+</div>
 
 <div class="chip-container" markdown="0">
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Computational Biomechanics</a>
