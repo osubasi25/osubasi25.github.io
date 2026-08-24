@@ -17,23 +17,22 @@ My teaching spans mechanical design, computer-aided engineering, mechanics, bioe
 **MENG 2147 — Intermediate Mechanical Design**  
 Spring 2026
 
-<details style="margin: 0.6rem 0 1.5rem 0;">
-  <summary style="display: inline-block; cursor: pointer; padding: 0.45rem 0.9rem; border: 1px solid var(--accent-color); border-radius: 6px; font-weight: 600;">
-    ▶ Course Video
-  </summary>
+<details style="margin: 0.6rem 0 1.5rem 0;" markdown="0">
+<summary style="display: inline-block; cursor: pointer; padding: 0.45rem 0.9rem; border: 1px solid var(--accent-color); border-radius: 6px; font-weight: 600;">
+▶ Course Video
+</summary>
 
-  <div style="margin-top: 1rem; text-align: center;">
-    <iframe
-      width="360"
-      height="640"
-      src="https://www.youtube.com/embed/o2iqUBSRME0"
-      title="MENG 2147 Intermediate Mechanical Design Course Video"
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen
-      style="max-width: 100%; border-radius: 10px;">
-    </iframe>
-  </div>
+<div style="margin-top: 1rem; text-align: center;">
+<iframe width="360" height="640"
+src="https://www.youtube.com/embed/o2iqUBSRME0"
+title="MENG 2147 Intermediate Mechanical Design Course Video"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen
+style="max-width: 100%; border-radius: 10px;">
+</iframe>
+</div>
+
 </details>
 
 **MENG 4991/4992 — Special Projects I & II**  
