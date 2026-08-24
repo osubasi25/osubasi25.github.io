@@ -15,4 +15,84 @@ document.addEventListener("DOMContentLoaded", function () {
     );
   });
 });
+
 </script>
+// Add co-first-author superscripts to selected publications
+document.querySelectorAll(".pub-entry").forEach(function (pub) {
+
+  let citation = pub.querySelector(".text-justify");
+  if (!citation) return;
+
+  // 2025 - Talus osteochondral lesion
+  if (pub.innerText.includes("talus osteochondral lesion size and location")) {
+    citation.innerHTML = citation.innerHTML.replace(
+      "Aslan, L.",
+      "Aslan, L.<sup>1</sup>"
+    );
+    citation.innerHTML = citation.innerHTML.replace(
+      "<strong><u>Subasi, O.</u></strong>",
+      "<strong><u>Subasi, O.</u></strong><sup>1</sup>"
+    );
+  }
+
+  // 2024 - Oblique vs chevron MDCO
+  if (pub.innerText.includes("oblique and chevron medial displacement calcaneal osteotomies")) {
+    citation.innerHTML = citation.innerHTML.replace(
+      "<strong><u>Subasi, O.</u></strong>",
+      "<strong><u>Subasi, O.</u></strong><sup>1</sup>"
+    );
+    citation.innerHTML = citation.innerHTML.replace(
+      "Sharma, S.",
+      "Sharma, S.<sup>1</sup>"
+    );
+  }
+
+  // 2024 - Scapulothoracic arthrodesis
+  if (pub.innerText.includes("rib force distribution")) {
+    citation.innerHTML = citation.innerHTML.replace(
+      "Aslan, L.",
+      "Aslan, L.<sup>1</sup>"
+    );
+    citation.innerHTML = citation.innerHTML.replace(
+      "<strong><u>Subasi, O.</u></strong>",
+      "<strong><u>Subasi, O.</u></strong><sup>1</sup>"
+    );
+  }
+
+  // 2023 - Surgical hand scrub
+  if (pub.innerText.includes("checklist surgical hand scrub")) {
+    citation.innerHTML = citation.innerHTML.replace(
+      "Aslan, L.",
+      "Aslan, L.<sup>1</sup>"
+    );
+    citation.innerHTML = citation.innerHTML.replace(
+      "<strong><u>Subasi, O.</u></strong>",
+      "<strong><u>Subasi, O.</u></strong><sup>1</sup>"
+    );
+  }
+
+  // 2021 - Proximal femoral fluoroscopy
+  if (pub.innerText.includes("fluoroscopic imaging during proximal femoral fixation")) {
+    citation.innerHTML = citation.innerHTML.replace(
+      "Aslan, L.",
+      "Aslan, L.<sup>1</sup>"
+    );
+    citation.innerHTML = citation.innerHTML.replace(
+      "<strong><u>Subasi, O.</u></strong>",
+      "<strong><u>Subasi, O.</u></strong><sup>1</sup>"
+    );
+  }
+
+  // 2018 - Triaxial dynamometer
+  if (pub.innerText.includes("triaxial optoelectronic based dynamometer")) {
+    citation.innerHTML = citation.innerHTML.replace(
+      "<strong><u>Subasi, O.</u></strong>",
+      "<strong><u>Subasi, O.</u></strong><sup>1</sup>"
+    );
+    citation.innerHTML = citation.innerHTML.replace(
+      "Yazgi, S. G.",
+      "Yazgi, S. G.<sup>1</sup>"
+    );
+  }
+
+});
