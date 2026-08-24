@@ -35,6 +35,8 @@ analytics:
 nav_pages:
   - name: publications
   - name: research
+  - name: gbd
+    label: "GBD"
   - name: team
   - name: teaching
   - name: collaborators
