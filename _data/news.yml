@@ -1,8 +1,6 @@
 # News items shown on the home page sidebar.
 # The 3 most recent are shown; all appear on /allnews.
 # Each entry needs: date, headline
-- date: 6 February, 1986
-  headline: "Appointed to the Rogers Commission investigating the Space Shuttle Challenger disaster"
 
 - date: 25 August, 2026
   headline: "Omer Lab Website Launched!"
