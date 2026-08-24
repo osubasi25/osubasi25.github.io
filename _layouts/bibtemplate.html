@@ -5,7 +5,9 @@
   <div class="text-justify">{{ reference }}</div>
 
   <!-- You can use the below to make your name bold -->
-  <!-- <div class="text-justify">{{ reference | replace_first: 'Bryngelson, S. H.', '<b>Bryngelson, S. H.</b>' }}</div> -->
+  <div class="text-justify">
+  {{ reference | replace_first: 'Subasi, O.,', '<strong><u>Subasi, O.</u>,</strong>' }}
+</div>
 
   {% assign bibtest = false %}
   {% if entry.file %}
