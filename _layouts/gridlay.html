@@ -5,3 +5,14 @@ layout: default
 <div class="fade-in-section">
   {{ content }}
 </div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".pub-entry .text-justify").forEach(function (entry) {
+    entry.innerHTML = entry.innerHTML.replaceAll(
+      "Subasi, O.",
+      "<strong><u>Subasi, O.</u></strong>"
+    );
+  });
+});
+</script>
