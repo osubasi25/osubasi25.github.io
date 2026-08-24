@@ -10,9 +10,11 @@ permalink: /publications/
 <input type="text" class="pub-search" id="pubSearch" placeholder="Filter by title, author, or year...">
 
 <div class="section-card" id="pubList">
-<h3>Preprints</h3>
+{% comment %}
+## Preprints
 
-{% bibliography --query @unpublished %}
+{% bibliography --query @*[type=unpublished] %}
+{% endcomment %}
 
 <h3>Refereed Journal Articles</h3>
 
