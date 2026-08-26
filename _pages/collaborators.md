@@ -19,9 +19,6 @@ OMER Lab collaborates with researchers and laboratories across engineering, biom
      alt="MARC"
      style="width: 100%; height: 140px; object-fit: contain; margin-bottom: 1rem;">
 </a>
-
-<h4 style="margin-bottom: 0.4rem;">Lab Name</h4>
-
 <p style="margin-bottom: 0;">
 <strong>PI: Prof. Ismail Lazoglu</strong><br>
 Koç University
@@ -38,9 +35,6 @@ Koç University
      alt="KUTTAM"
      style="width: 100%; height: 140px; object-fit: contain; margin-bottom: 1rem;">
 </a>
-
-<h4 style="margin-bottom: 0.4rem;">Lab Name</h4>
-
 <p style="margin-bottom: 0;">
 <strong>Faculty Member: Assoc. Prof. Lercan Aslan</strong><br>
 Koç University Hospital
@@ -57,9 +51,6 @@ Koç University Hospital
      alt="CAST"
      style="width: 100%; height: 140px; object-fit: contain; margin-bottom: 1rem;">
 </a>
-
-<h4 style="margin-bottom: 0.4rem;">Lab Name</h4>
-
 <p style="margin-bottom: 0;">
 <strong>PI: Assoc. Prof. Bedri Karaismailoglu</strong><br>
 Istanbul Unversity-Cerrahpasa
@@ -74,9 +65,6 @@ Istanbul Unversity-Cerrahpasa
      alt="FARIL"
      style="width: 100%; height: 140px; object-fit: contain; margin-bottom: 1rem;">
 </a>
-
-<h4 style="margin-bottom: 0.4rem;">Lab Name</h4>
-
 <p style="margin-bottom: 0;">
 <strong>PI: Assoc. Prof. Soheil Ashkani-Esfahani</strong><br>
 Harvard Medical School & Mass General Brigham
