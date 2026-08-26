@@ -46,7 +46,7 @@ OMER Lab applies mechanical engineering principles, computational methods, and a
 <div class="research-card">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/advanced-manufacturing.jpg" class="research-thumb" alt="advanced manufacturing">
 <div class="research-body">
-<h4 class="research-title">advanced Manufacturing</h4>
+<h4 class="research-title">Advanced Manufacturing</h4>
 <p class="research-desc">Application of advanced manufacturing, lattice structures, and patient-specific fabrication methods to develop mechanically optimized implants, instruments, and biomedical devices.</p>
 </div>
 </div>
