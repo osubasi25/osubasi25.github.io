@@ -7,53 +7,55 @@ permalink: /research/
 
 ## Research
 
+OMER Lab applies mechanical engineering principles, computational methods, and advanced design approaches to problems in orthopaedics, biomechanics, and medical technology. Our research spans the following interconnected areas.
+
 <div class="research-grid">
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/qed.svg" class="research-thumb" alt="Feynman diagram">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/computational-biomechanics.jpg" class="research-thumb" alt="Computational biomechanics">
 <div class="research-body">
-<h4 class="research-title">Quantum Electrodynamics</h4>
-<p class="research-desc">Development of the path integral formulation of quantum mechanics and its application to quantum electrodynamics (QED). This work introduced Feynman diagrams as a powerful tool for calculating particle interactions, providing an intuitive visual representation of complex quantum processes.</p>
+<h4 class="research-title">Computational Biomechanics</h4>
+<p class="research-desc">Development and application of computational models to investigate musculoskeletal mechanics, tissue loading, joint function, and the biomechanical consequences of surgical interventions.</p>
 </div>
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/superfluidity.svg" class="research-thumb" alt="Superfluid helium">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/orthopaedic-engineering.jpg" class="research-thumb" alt="Orthopaedic engineering">
 <div class="research-body">
-<h4 class="research-title">Superfluidity</h4>
-<p class="research-desc">Quantum mechanical explanation of the behavior of liquid helium near absolute zero. Using path integral methods, we developed a microscopic theory of the lambda transition and explained the energy spectrum of excitations in superfluid helium, including the roton minimum.</p>
+<h4 class="research-title">Orthopaedic Engineering</h4>
+<p class="research-desc">Engineering approaches to clinically relevant orthopaedic problems, integrating biomechanics, medical imaging, computational analysis, and design to improve surgical strategies and patient care.</p>
 </div>
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/partons.svg" class="research-thumb" alt="Parton model">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/finite-element-modeling.jpg" class="research-thumb" alt="Finite element modeling">
 <div class="research-body">
-<h4 class="research-title">Parton Model</h4>
-<p class="research-desc">A model describing the internal structure of hadrons in terms of point-like constituents called partons. This framework proved essential for interpreting deep inelastic scattering experiments at SLAC and laid the groundwork for quantum chromodynamics (QCD).</p>
+<h4 class="research-title">Finite Element Modeling</h4>
+<p class="research-desc">Patient-specific and anatomically representative finite element models for studying load transfer, stress distribution, implant mechanics, surgical procedures, and musculoskeletal function.</p>
 </div>
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/quantum-computing.svg" class="research-thumb" alt="Quantum circuit">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/implant-design.jpg" class="research-thumb" alt="Orthopaedic implant design">
 <div class="research-body">
-<h4 class="research-title">Quantum Computing</h4>
-<p class="research-desc">Pioneering proposals for using quantum mechanical systems to perform computation. We demonstrated that classical computers cannot efficiently simulate quantum physics, motivating the development of quantum computers that exploit superposition and entanglement.</p>
+<h4 class="research-title">Implant Design</h4>
+<p class="research-desc">Design and biomechanical evaluation of orthopaedic implants and medical devices, with an emphasis on improving fixation, load sharing, surgical performance, and clinical usability.</p>
 </div>
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/nanotechnology.svg" class="research-thumb" alt="Atomic manipulation">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/additive-manufacturing.jpg" class="research-thumb" alt="Additive manufacturing">
 <div class="research-body">
-<h4 class="research-title">Nanotechnology</h4>
-<p class="research-desc">Exploration of the physical possibilities of manipulating matter at the atomic scale. The talk "There's Plenty of Room at the Bottom" envisioned machines that could arrange atoms one by one, anticipating modern nanotechnology and molecular manufacturing.</p>
+<h4 class="research-title">Additive Manufacturing</h4>
+<p class="research-desc">Application of additive manufacturing, lattice structures, and patient-specific fabrication methods to develop mechanically optimized implants, instruments, and biomedical devices.</p>
 </div>
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/weak-interactions.svg" class="research-thumb" alt="Weak interaction diagram">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/mechanical-design.jpg" class="research-thumb" alt="Mechanical design">
 <div class="research-body">
-<h4 class="research-title">Weak Interactions</h4>
-<p class="research-desc">Development of the V-A theory of the weak interaction with Murray Gell-Mann. This theory correctly predicted the structure of weak decays and was later incorporated into the electroweak unification by Weinberg, Salam, and Glashow.</p>
+<h4 class="research-title">Mechanical Design</h4>
+<p class="research-desc">Design, analysis, and prototyping of mechanical systems and devices, extending from biomedical applications to broader engineering challenges in mechanisms, sensing, and manufacturing.</p>
 </div>
 </div>
 
