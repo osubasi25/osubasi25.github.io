@@ -15,7 +15,7 @@ OMER Lab collaborates with researchers and laboratories across engineering, biom
 <div class="section-card" style="text-align: center; padding: 1.5rem;">
 
 <a href="https://https://research.ku.edu.tr/research-infrastructure/research-centers-and-units/manufacturing-automation-research-center/" target="_blank" rel="noopener">
-<img src="{{ '/images/collaborators/marc-logo.png' | relative_url }}"
+<img src="{{ '/images/marc-logo.png' | relative_url }}"
      alt="MARC"
      style="width: 100%; height: 140px; object-fit: contain; margin-bottom: 1rem;">
 </a>
@@ -34,7 +34,7 @@ Koç University
 <div class="section-card" style="text-align: center; padding: 1.5rem;">
 
 <a href="https://research.ku.edu.tr/kuttam/" target="_blank" rel="noopener">
-<img src="{{ '/images/collaborators/kuttam-logo.png' | relative_url }}"
+<img src="{{ '/images/kuttam-logo.png' | relative_url }}"
      alt="KUTTAM"
      style="width: 100%; height: 140px; object-fit: contain; margin-bottom: 1rem;">
 </a>
@@ -53,7 +53,7 @@ Koç University Hospital
 <div class="section-card" style="text-align: center; padding: 1.5rem;">
 
 <a href="https://cast.iuc.edu.tr/tr/_" target="_blank" rel="noopener">
-<img src="{{ '/images/collaborators/cast-logo.jpg' | relative_url }}"
+<img src="{{ '/images/cast-logo.jpg' | relative_url }}"
      alt="CAST"
      style="width: 100%; height: 140px; object-fit: contain; margin-bottom: 1rem;">
 </a>
@@ -70,7 +70,7 @@ Istanbul Unversity-Cerrahpasa
 <div class="section-card" style="text-align: center; padding: 1.5rem;">
 
 <a href="https://https://https://faril.mgh.harvard.edu" target="_blank" rel="noopener">
-<img src="{{ '/images/collaborators/faril-logo.jpg' | relative_url }}"
+<img src="{{ '/images/faril-logo.jpg' | relative_url }}"
      alt="FARIL"
      style="width: 100%; height: 140px; object-fit: contain; margin-bottom: 1rem;">
 </a>
