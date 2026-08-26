@@ -12,7 +12,7 @@ OMER Lab applies mechanical engineering principles, computational methods, and a
 <div class="research-grid">
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/computational-biomechanics.jpg" class="research-thumb" alt="Computational biomechanics">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/computational-biomechanics.JPG" class="research-thumb" alt="Computational biomechanics">
 <div class="research-body">
 <h4 class="research-title">Computational Biomechanics</h4>
 <p class="research-desc">Development and application of computational models to investigate musculoskeletal mechanics, tissue loading, joint function, and the biomechanical consequences of surgical interventions.</p>
@@ -20,7 +20,7 @@ OMER Lab applies mechanical engineering principles, computational methods, and a
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/orthopaedic-engineering.jpg" class="research-thumb" alt="Orthopaedic engineering">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/orthopaedic-engineering.JPG" class="research-thumb" alt="Orthopaedic engineering">
 <div class="research-body">
 <h4 class="research-title">Orthopaedic Engineering</h4>
 <p class="research-desc">Engineering approaches to clinically relevant orthopaedic problems, integrating biomechanics, medical imaging, computational analysis, and design to improve surgical strategies and patient care.</p>
@@ -28,7 +28,7 @@ OMER Lab applies mechanical engineering principles, computational methods, and a
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/finite-element-modeling.jpg" class="research-thumb" alt="Finite element modeling">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/finite-element-modeling.JPG" class="research-thumb" alt="Finite element modeling">
 <div class="research-body">
 <h4 class="research-title">Finite Element Modeling</h4>
 <p class="research-desc">Patient-specific and anatomically representative finite element models for studying load transfer, stress distribution, implant mechanics, surgical procedures, and musculoskeletal function.</p>
@@ -36,7 +36,7 @@ OMER Lab applies mechanical engineering principles, computational methods, and a
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/implant-design.jpg" class="research-thumb" alt="Orthopaedic implant design">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/implant-design.JPG" class="research-thumb" alt="Orthopaedic implant design">
 <div class="research-body">
 <h4 class="research-title">Implant Design</h4>
 <p class="research-desc">Design and biomechanical evaluation of orthopaedic implants and medical devices, with an emphasis on improving fixation, load sharing, surgical performance, and clinical usability.</p>
@@ -44,7 +44,7 @@ OMER Lab applies mechanical engineering principles, computational methods, and a
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/advanced-manufacturing.jpg" class="research-thumb" alt="advanced manufacturing">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/advanced-manufacturing.JPG" class="research-thumb" alt="advanced manufacturing">
 <div class="research-body">
 <h4 class="research-title">Advanced Manufacturing</h4>
 <p class="research-desc">Application of advanced manufacturing, lattice structures, and patient-specific fabrication methods to develop mechanically optimized implants, instruments, and biomedical devices.</p>
@@ -52,7 +52,7 @@ OMER Lab applies mechanical engineering principles, computational methods, and a
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/mechanical-design.jpg" class="research-thumb" alt="Mechanical design">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/mechanical-design.JPG" class="research-thumb" alt="Mechanical design">
 <div class="research-body">
 <h4 class="research-title">Mechanical Design</h4>
 <p class="research-desc">Design, analysis, and prototyping of mechanical systems and devices, extending from biomedical applications to broader engineering challenges in mechanisms, sensing, and manufacturing.</p>
