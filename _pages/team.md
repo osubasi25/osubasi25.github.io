@@ -37,7 +37,6 @@ permalink: /team/
 <div class="team-grid">
 {% for member in site.data.team_members %}
 <div class="team-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" class="team-photo" alt="{{ member.name }}" loading="lazy">
 <h4 class="team-name">{{ member.name }}</h4>
 <p class="team-info">{{ member.info }}</p>
 <div class="team-links">
@@ -71,7 +70,3 @@ permalink: /team/
 </table>
 </div>
 {% endif %}
-
-## Administrative Support
-
-<a href="mailto:exampleemail@gmail.com">Example staff</a> is helping us (and other groups) with administration.
