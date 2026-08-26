@@ -16,7 +16,7 @@ permalink: /
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Implant Design</a>
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Advanced Manufacturing</a>
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Mechanical Design</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Global Health</a>
+<a href="{{ site.url }}{{ site.baseurl }}/gbd" class="chip">Global Health</a>
 </div>
 
 ### About
