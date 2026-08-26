@@ -16,6 +16,24 @@ OMER Lab applies mechanical engineering principles, computational methods, and a
 <div class="research-body">
 <h4 class="research-title">Computational Biomechanics</h4>
 <p class="research-desc">Development and application of computational models to investigate musculoskeletal mechanics, tissue loading, joint function, and the biomechanical consequences of surgical interventions.</p>
+  <div style="margin-top: 1rem; font-size: 0.92rem; line-height: 1.6;">
+
+<strong>Foot & Ankle Biomechanics:</strong><br>
+<a href="https://doi.org/10.1002/jeo2.70732" target="_blank" rel="noopener">
+Arch supports & plantar fasciitis (2026)
+</a> ·
+<a href="https://doi.org/10.5152/j.aott.2025.25444" target="_blank" rel="noopener">
+Talar osteochondral lesions (2025)
+</a> ·
+<a href="https://doi.org/10.1016/j.compbiomed.2024.107945" target="_blank" rel="noopener">
+Calcaneal osteotomy biomechanics (2024)
+</a>
+<br><br>
+<strong>Shoulder & Thoracic Biomechanics:</strong><br>
+<a href="https://doi.org/10.1002/jor.25771" target="_blank" rel="noopener">
+Scapulothoracic arthrodesis (2024)
+</a>
+</div>
 </div>
 </div>
 
