@@ -66,7 +66,7 @@ Istanbul Unversity-Cerrahpasa
      style="width: 100%; height: 140px; object-fit: contain; margin-bottom: 1rem;">
 </a>
 <p style="margin-bottom: 0;">
-<strong>PI: Assoc. Prof. Soheil Ashkani-Esfahani</strong><br>
+<strong>PI: Asst. Prof. Soheil Ashkani-Esfahani</strong><br>
 Harvard Medical School & Mass General Brigham
 </p>
 
