@@ -60,7 +60,7 @@ Istanbul Unversity-Cerrahpasa
   <!-- Collaborator 4 -->
 <div class="section-card" style="text-align: center; padding: 1.5rem;">
 
-<a href="https://https://faril.mgh.harvard.edu" target="_blank" rel="noopener">
+<a href="https://faril.mgh.harvard.edu" target="_blank" rel="noopener">
 <img src="{{ '/images/faril-logo.jpg' | relative_url }}"
      alt="FARIL"
      style="width: 100%; height: 140px; object-fit: contain; margin-bottom: 1rem;">
