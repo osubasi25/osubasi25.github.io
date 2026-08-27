@@ -10,7 +10,7 @@ description: "Omer Subasi, PhD is a mechanical & biomedical engineering research
   <img src="{{ '/images/omer-logo-wide.png' | relative_url }}" alt="OMER Lab logo" style="max-width: 100%; height: auto; border-radius: 8px;">
 </div>
 <div style="margin: -0.75rem 0 1.5rem 0;">
-  <div style="font-size: 1.25rem; font-weight: 700;">Omer Subasi, Ph.D. </div>
+  <div style="font-size: 1.25rem; font-weight: 700;">Omer Subasi, Ph.D.,
     Research Scientist & University Lecturer
   </div>
 </div>
