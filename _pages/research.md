@@ -131,7 +131,7 @@ OMER Lab applies mechanical engineering principles, computational methods, and a
   <div style="margin-top: 1rem; font-size: 0.92rem; line-height: 1.6;">
 
 <strong>Reciprocating Compressor:</strong>
-<a href="https://doi.org/10.10.1007/s00068-020-01514-x" target="_blank" rel="noopener"> 1 </a> .
+<a href="https://doi.org/10.1080/0305215X.2022.2152808" target="_blank" rel="noopener"> 1 </a> .
 <a href="https://doi.org/10.1016/j.apacoust.2022.109139" target="_blank" rel="noopener"> 2 </a> .
 <a href="https://doi.org/10.1016/j.ijrefrig.2022.12.028" target="_blank" rel="noopener"> 3 </a> .
 <br>
