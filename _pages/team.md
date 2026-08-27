@@ -12,7 +12,7 @@ permalink: /team/
 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ site.photo }}" class="pi-photo" alt="Omer Subasi, Ph.D." loading="lazy">
 <div>
 <h3 class="pi-name">Omer Subasi, Ph.D. </h3>
-<p style="font-style: italic; color: var(--text-secondary);">{{ site.title }}, {{ site.institution }}</p>
+<p style="font-style: italic; color: var(--text-secondary);">Research Scientist, University Lecturer</p>
 <div class="pi-links">
 {% if site.email %}<a href="mailto:{{ site.email }}" class="icon-link" title="Email"><i class="fa-solid fa-envelope"></i></a>{% endif %}
 {% if site.links.google_scholar and site.links.google_scholar != "" %}<a href="{{ site.links.google_scholar }}" class="icon-link" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>{% endif %}
