@@ -1,8 +1,9 @@
 ---
-title: "Home"
+title: "Omer Subasi, PhD | OMER Lab"
 layout: homelay
 sitemap: false
 permalink: /
+description: "Omer Subasi, PhD is a mechanical & biomedical research engineer and a university lecturer. OMER Lab conducts research in computational biomechanics, orthopaedic engineering, finite element modeling, implant design, advanced manufacturing, and mechanical design."
 ---
 
 <div style="margin: 1.5rem 0 2rem 0; text-align: left;" markdown="0">
