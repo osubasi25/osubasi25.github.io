@@ -23,7 +23,7 @@ accent_color: "#495057"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
 description: "OMER (Orthopaedic & Mechanical Engineering Research) Lab"
 baseurl: ""
-url: ""
+url: "https://omer-lab.com"
 
 # Google Analytics — paste your GA4 measurement ID, or leave blank
 analytics:
