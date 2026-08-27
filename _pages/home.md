@@ -23,4 +23,4 @@ permalink: /
 
 OMER (Orthopaedic & Mechanical Engineering Research) Lab is an independent research collaborative network founded by Omer Subasi, PhD. The lab focuses on applying mechanical engineering principles and computational methods to clinically relevant challenges in orthopaedics and musculoskeletal biomechanics.
 
-My work spans computational biomechanics, finite element analysis, orthopaedic implant and device design, and advanced manufacturing, with an emphasis on translating engineering approaches into solutions that can improve our understanding and treatment of musculoskeletal conditions.
+Our work spans computational biomechanics, finite element analysis, orthopaedic implant and device design, and advanced manufacturing, with an emphasis on translating engineering approaches into solutions that can improve our understanding and treatment of musculoskeletal conditions.
