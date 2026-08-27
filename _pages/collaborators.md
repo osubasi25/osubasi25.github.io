@@ -53,7 +53,7 @@ Koç University Hospital
 </a>
 <p style="margin-bottom: 0;">
 <strong>PI: Assoc. Prof. Bedri Karaismailoglu</strong><br>
-Istanbul Unversity-Cerrahpasa
+Istanbul University-Cerrahpasa
 </p>
 
 </div>
